@@ -1,7 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="30px">, I'm Larren Dsouza </h1>
-<h3 align="center">I'm a passionate Web Developer.</h3>
 <h3 align="center">A software developer always looking to learn more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larren07&label=Profile%20views&color=0e75b6&style=flat" alt="larren07" /> </p>
